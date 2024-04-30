@@ -2,8 +2,15 @@
 
 n = 0
 
-while n <= 19:
-    n = n + 1
-    print(n)
+anterior = 1
+proximo = 1
+atual = 0
+
+while atual <= 21:
+    proximo = atual + anterior
+    anterior = atual
+    atual = proximo
+
+    print(atual)
     
     
