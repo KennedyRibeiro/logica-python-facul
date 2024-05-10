@@ -11,7 +11,7 @@ while cont < n:
     elif n % cont == 1:
         print("O número é primo!")
         break
-    cont =+ 1
+    cont += 1
 
 
 

@@ -10,7 +10,7 @@ while n1 <= n2:
     while cont <= metade and primo == 0:
         if n1 % cont == 0:
             primo = 1
-        cont =+ 1
+        cont += 1
     if primo == 0:
         print(n1)
     n1 =+ 1
