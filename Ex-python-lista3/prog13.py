@@ -14,7 +14,7 @@ while voto > 0:
     if voto == 1:
         canditado1 += 1
     elif voto == 2:
-        canditado2 =+ 1
+        canditado2 += 1
     elif voto == 3:
         canditado3 += 1
     elif voto == 4:
