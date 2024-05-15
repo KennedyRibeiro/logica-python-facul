@@ -19,6 +19,7 @@ while i < n:
 
 media = media / n
 acima_media = 0
+i = 0
 
 while i < n:
     if notas[i] > media:
