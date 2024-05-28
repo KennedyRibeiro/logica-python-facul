@@ -1,3 +1,5 @@
+#Faça um algoritmo que de posse de um vetor de N elementos inteiros, calcule e imprima a quantidade de números pares e a quantidade de números ímpares.
+
 cont = 5
 valores = [""] * cont
 
@@ -16,11 +18,7 @@ while i < cont:
         print("Ele é impar!")
         impar += 1
         
-
-
     i += 1
 
 print("A quantidade de números par é: ", par)
 print("A quantidade de números impar é: ", impar)
-
-    
