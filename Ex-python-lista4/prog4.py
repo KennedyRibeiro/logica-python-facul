@@ -1,0 +1,1 @@
+# Faça um algoritmo que receba a temperatura média de cada mês do ano e armazene essas temperaturas em um vetor, calcule e imprima a maior e a menor temperatura do ano em que mês estas temperaturas aconteceram.
