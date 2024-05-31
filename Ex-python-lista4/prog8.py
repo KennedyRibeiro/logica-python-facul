@@ -11,10 +11,19 @@ while i < n:
 
     i += 1
 
-i = 0 
+i = 0
 
 while i < n:
-    divisao = primos[i] % 2
+    cont = 1
+    resto = 1
+    while cont < primos[i] // 2 and resto != 0:
+        resto = primos[i] % cont
+        
+        cont += 1
 
-    if 
+    if resto != 0:
+        primos(primos[i], i)
+
+    i += 1
+
 
