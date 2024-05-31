@@ -12,7 +12,3 @@ while felisberto < anaCleto:
     cont = cont + 1
 
 print("Felisberto precisou de ",cont,"° anos Para chegar na altura de anaCleto")
-
-
-
-

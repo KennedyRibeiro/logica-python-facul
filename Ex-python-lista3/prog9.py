@@ -12,9 +12,3 @@ while cont < n:
         print("O número é primo!")
         break
     cont += 1
-
-
-
-
-        
-    

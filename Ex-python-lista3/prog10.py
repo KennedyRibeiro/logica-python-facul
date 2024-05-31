@@ -13,5 +13,4 @@ while n1 <= n2:
         cont += 1
     if primo == 0:
         print(n1)
-    n1 =+ 1
-            
+    n1 =+ 1      

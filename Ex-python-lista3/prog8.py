@@ -12,5 +12,3 @@ while atual <= 21:
     atual = proximo
 
     print(atual)
-    
-    

@@ -1,6 +1,5 @@
 # – Elabore um algoritmo que determine o valor de S, em que: S = 1/1 – 2/4 + 3/9 – 4/16 + 5/25 – 6/36 ... – 10/100.
 
-
 h = 0
 sinal = 1
 num = 1

@@ -40,10 +40,3 @@ percentualBranco = (total * branco) / 100
 
 print("o percentual de votos nulos é : ",percentualNulo,"%")
 print("o percentual de votos em branco é : ",percentualBranco,"%")
-
-
-
-
-
-
-

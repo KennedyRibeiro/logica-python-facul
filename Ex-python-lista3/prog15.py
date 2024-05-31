@@ -23,9 +23,4 @@ while cont <= 10:
     
     print(cpf, receba)
 
-
-    
-
-
-
     cont += 1

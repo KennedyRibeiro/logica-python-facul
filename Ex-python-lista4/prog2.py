@@ -9,9 +9,9 @@ impar = 0
 
 while i < cont:
     numeros = int(input("Digite um número: "))
-    passarinho = numeros % 2
+    resto = numeros % 2
     
-    if passarinho == 0:
+    if resto == 0:
         print("Ele é par!")
         par += 1
     else:

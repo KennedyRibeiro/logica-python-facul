@@ -1,6 +1,5 @@
 # – Escreva um algoritmo que leia um conjunto de 20 números inteiros e mostre qual foi o maior e o menor valor fornecido.
 
-
 cont = 1
 
 numero = int(input("Digite um número: "))
@@ -16,4 +15,3 @@ while cont < 3:
     cont += 1
 
 print("O numero maior é: ", maior)
-
