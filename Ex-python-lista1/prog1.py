@@ -1,6 +1,5 @@
 #Desenvolva um algoritmo para calcular a média de 4 números fornecidos pelo usuário. #
 
-
 n1 = float(input("Qual o valor do primeiro número : "))
 n2 = float(input("Qual o valor do segundo número: "))
 n3 = float(input("Qual o valor do terceiro número: "))

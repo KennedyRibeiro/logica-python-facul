@@ -1,6 +1,5 @@
 #Elabore um algoritmo que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:#
 
-
 idade = int(input("Qual é a sua idade nadador? "))
 
 if idade >= 5 and idade <= 7:

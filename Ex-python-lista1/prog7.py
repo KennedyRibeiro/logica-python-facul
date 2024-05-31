@@ -1,6 +1,5 @@
 #Desenvolva um algoritmo para calcular a área da esfera, dada por 4 Pi R2 e o seu volume, dado por (4 Pi R3)/3, onde R é o raio e Pi uma constante equivalente a 3,1416. O valor de R deverá ser fornecido pelo usuário. #
 
-
 r = float(input("qual o valor de r? "))
 PI = 3.14
 

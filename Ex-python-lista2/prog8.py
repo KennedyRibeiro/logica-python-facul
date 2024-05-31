@@ -1,6 +1,5 @@
 #Elabore um algoritmo que calcule o que deve ser pago por um produto, considerando o preço normal de etiqueta e a escolha da condição de pagamento. Utilize os códigos da tabela a seguir para ler qual a condição de pagamento escolhida e efetuar o cálculo adequado. #
 
-
 id = int(input("Qual o código da forma de pagamento? "))
 
 if id == 1:

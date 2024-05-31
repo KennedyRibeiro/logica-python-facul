@@ -27,10 +27,3 @@ else:
                     print("Limpeza e utensílios domésticos")
                 else:
                     print("Código inválido!")
- 
- 
- 
- 
- 
- 
- 

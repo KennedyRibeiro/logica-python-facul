@@ -1,6 +1,5 @@
 # Elabore um algoritmo que leia o valor de dois números inteiros e a operação aritmética desejada; calcule, então, a resposta adequada. Utilize os símbolos da tabela a seguir para ler qual a operação aritmética escolhida. #
 
-
 n1 = int(input("Qual o valor do primeiro numero? "))
 n2 = int(input("Qual o valor do segundo numero? "))
 operacao = input("Qual a operação desejada? ")

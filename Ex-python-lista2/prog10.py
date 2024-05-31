@@ -1,7 +1,5 @@
 #Construa um algoritmo que seja capaz de construir qual dentre os seguintes animais foi escolhido, através de perguntas e respostas. Animais possíveis: leão, cavalo, homem, macaco, morcego, baleia, avestruz, pinguim, pato, águia, tartaruga, crocodilo e cobra.#
 
-
-
 print("============================================================")
 print("==================Bem-Vindo ao Zoológico====================")
 print("============================================================")
@@ -46,9 +44,3 @@ elif code == 3:
         print("O Animal é um Crocodilo")
     elif code == 3:
         print("O Animal é uma Cobra")
-                
-
-
-
-
-    

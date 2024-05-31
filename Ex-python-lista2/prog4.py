@@ -2,7 +2,6 @@
 # Para homens: (72,7 * H) – 58 
 # Para mulheres: (62,1 * H) – 44,7 
 
-
 altura = float(input("Qual é a sua altura?"))
 sexo = (input("Qual é o seu sexo?"))
 
@@ -15,5 +14,3 @@ else:
         print("O seu peso ideal é: ", peso_m)
     else:
         print("Sexo Inválido!")
-        
-        
