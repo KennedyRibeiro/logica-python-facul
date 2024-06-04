@@ -16,7 +16,7 @@ i = 0
 while i < n:
     cont = 1
     resto = 1
-    while cont < primos[i] // 2 and resto != 0:
+    while cont < primos[i] / 2 and resto != 0:
         resto = primos[i] % cont
         
         cont += 1
