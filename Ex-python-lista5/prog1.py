@@ -1,0 +1,1 @@
+# Desenvolva um algoritmo que após armazenar valores numéricos em uma matriz N x M, calcule e mostre o somatório desses valores.
