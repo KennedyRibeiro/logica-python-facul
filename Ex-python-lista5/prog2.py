@@ -7,7 +7,7 @@ i = 0
 while i < N:
     j = 0
     while j < M:
-        Mat[i][j] = int(input(f"Valor ({i} {j}): "))
+        Mat[i][j] = int(input(f"Valor ({i} | {j}): "))
         j += 1
     i += 1
 
