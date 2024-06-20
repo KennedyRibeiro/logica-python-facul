@@ -25,5 +25,3 @@ while i < n:
         primos(primos[i], i)
 
     i += 1
-
-

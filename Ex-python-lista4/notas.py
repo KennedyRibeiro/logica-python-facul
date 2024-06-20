@@ -28,5 +28,3 @@ while i < n:
     i += 1
 
 print(media, acima_media)
-
-

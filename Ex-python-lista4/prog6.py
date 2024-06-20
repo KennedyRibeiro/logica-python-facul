@@ -4,4 +4,3 @@ posicoes = 20
 
 vet1 = [""] * posicoes
 vet2 = [""] * posicoes
-
